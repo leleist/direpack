@@ -1,3 +1,11 @@
+This version is modified to only import sprm subpackage and its dependencies to negate various dependency errors. 
+- also SNIPLS.transfrom is fixed
+==============================================================================================
+
+
+
+
+
 `direpack`: a Python 3 library for state-of-the-art statistical dimension reduction techniques
 ==============================================================================================
 
