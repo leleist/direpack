@@ -1,6 +1,6 @@
 This version is modified to only import sprm subpackage and its dependencies to negate various dependency errors. 
 - also SNIPLS.transfrom is fixed
-==============================================================================================
+=====================================================================================
 
 
 
