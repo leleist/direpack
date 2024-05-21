@@ -31,7 +31,7 @@ from .sprm.rm import rm
 from .cross_validation._cv_support_functions import robust_loss
 #from .ppdire.ppdire import ppdire
 #from .ppdire.capi import capi
-f#rom .dicomo.dicomo import dicomo
+#from .dicomo.dicomo import dicomo
 #from .sudire.sudire import sudire, estimate_structural_dim
 #from .plot.sudire_plot import sudire_plot
 #from .plot.ppdire_plot import ppdire_plot
