@@ -81,7 +81,7 @@ class snipls(_BaseComposition, BaseEstimator, TransformerMixin, RegressorMixin):
         self,
         eta=0.5,
         n_components=1,
-        verbose=True,
+        verbose=False,
         columns=False,
         centre="mean",
         scale="None",
